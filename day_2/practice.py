@@ -3,12 +3,17 @@
 # For the following questions, imagine you have a Workbook object in the variable wb, a Worksheet object in sheet, and a Cell object in cell.
 
 # 1. What does the openpyxl.load_workbook() function return?
+  # - Workbook Object
 
 # 2. What does the wb.sheetnames workbook attribute contain?
+  # - Sheetnames of the workbook
 
 # 3. How would you retrieve the Worksheet object for a sheet named 'Sheet1'?
+  - get-sheet_by_
 
 # 4. How would you retrieve the Worksheet object for the workbook’s active sheet?
+
+
 
 # 5. How would you retrieve the value in the cell C5?
 
