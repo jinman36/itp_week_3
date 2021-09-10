@@ -6,7 +6,7 @@ wb = openpyxl.load_workbook('day_2/lecture.xlsx')
 # print(wb.workbook)
 
 # wb = Workbook()
-# print(str(wb))
+print(str(wb))
 
 for i in range(3, 10):
   wb.create_sheet()
